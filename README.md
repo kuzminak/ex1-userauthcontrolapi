@@ -6,6 +6,11 @@ Shared library for User Control Service and SprintBootLogin microservices for He
 - User Control Service https://github.com/kuzminak/ex1-usercontrolservice
 - SprintBoot Login via customAuthProvider example https://github.com/kuzminak/ex1-sprintbootlogin   
 
+#### Links
+- Service video presentation on youtube https://youtu.be/ADu8bzpAqMI
+- User Control Service https://github.com/kuzminak/ex1-usercontrolservice
+- SprintBoot Login via customAuthProvider example https://github.com/kuzminak/ex1-sprintbootlogin 
+
 1. run "mvn install" to publish jar library to local maven repository
 2. add to maven dependencies at target project
 
